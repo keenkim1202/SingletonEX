@@ -79,5 +79,6 @@ class SomeSingleton {
 </br>
 </br>
 
-[참고링크](https://medium.com/hcleedev/swift-singleton-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4-b84cfe57c541)
+- [참고링크1](https://medium.com/@jang.wangsu/swfit-thread-safety-%ED%95%9C-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%82%AC%EC%9A%A9%EC%9D%80-75c43e567acf)
+- [참고링크2](https://medium.com/hcleedev/swift-singleton-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4-b84cfe57c541)
 
